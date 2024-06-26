@@ -1,4 +1,4 @@
-##Note
+Note
 ---
 
 kubectl run redis --image=redis123 --dry-run=client -o yaml > redis-definition.yaml
